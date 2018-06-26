@@ -1,0 +1,8 @@
+{
+  "name": "geocoder-api-demo",
+  "description": "",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::445217187339:role/geocoder-api-demo_lambda_function",
+  "environment": {}
+}

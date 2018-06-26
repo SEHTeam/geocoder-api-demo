@@ -1,0 +1,19 @@
+{
+  "name": "geocoder-api-demo",
+  "version": "1.0.0",
+  "description": "AWS Lambda which will take a JSON file uploaded to a S3 bucket, parse it into an API call to Here.com's Geocoder API, update the file with a latitude and longitude, and save the file to a new S3 location.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SEHTeam/geocoder-api-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SEHTeam/geocoder-api-demo/issues"
+  },
+  "homepage": "https://github.com/SEHTeam/geocoder-api-demo#readme"
+}
