@@ -2,6 +2,10 @@
 
 This code sample demonstrates use of AWS Lambda to call Here Geocoder API, works with data in S3.
 
+Shown below is the architecture of this code sample.  
+
+![geocoder-and-aws](/images/geocoder-and-aws.png)
+
 Notes: 
 1) the file `appKeyAccess.js` (line 6) is set to use `us-east-1`, edit as per your location.
 2) create an IAM S3 policy (R/W) using the two S3 bucket names for use with your scenario's Lambda instance.
