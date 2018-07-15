@@ -3,7 +3,7 @@
   "description": "",
   "memory": 128,
   "timeout": 5,
-  "role": "arn:aws:iam::445217187339:role/geocoder-api-demo_lambda_function",
+  "role": "arn:aws:iam::<yourAWSAccountNumber>:role/geocoder-api-demo_lambda_function",
   "environment": {},
   "nameTemplate": "{{.Function.Name}}"
 }
