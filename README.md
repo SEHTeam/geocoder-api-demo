@@ -1,6 +1,7 @@
 # Here Technologies API
 
 This code sample demonstrates use of AWS Lambda to call Here Geocoder API, works with data in S3.
+Note: the file `appKeyAccess.js` (line 6) is set to use `us-east-1`, edit as per your location.
 
 ## geocoder-api-demo
 AWS Lambda which will take a JSON file uploaded to a S3 bucket, parse it into an API call to Here.com's Geocoder API, update the file with a latitude and longitude, and save the file to a new S3 location.
