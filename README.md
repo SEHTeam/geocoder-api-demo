@@ -1,6 +1,6 @@
 # Here Technologies API
 
-This code sample demonstrates use of an AWS Lambda which calls the [Here Technologies Geocoder API](https://developer.here.com/documentation/geocoder/topics/why-use.html), and works with data in S3.  Shown below is the architecture of this code sample.  
+This code sample demonstrates use of an AWS Lambda which calls the [Here Technologies Geocoder API](https://developer.here.com/documentation/geocoder/topics/why-use.html), and works with data in S3.  Shown below is the architecture of this code sample.  NOTE: Our sample code uses two folders in a single S3 bucket, rather than two S3 buckets.
 
 ![geocoder-and-aws](/images/geocoder-and-aws.png)
 
