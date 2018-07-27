@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/SEHTeam/geocoder-api-demo.git"
   },
-  "author": "",
+  "author": "SEHTeam",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/SEHTeam/geocoder-api-demo/issues"
